@@ -294,10 +294,10 @@ ul.dropdown-menu li{
     text-transform: uppercase;
     letter-spacing: 9px;
     font-weight: 600;
-    color: #FFFFFF !important;
+    color: #2f2f2f !important;
 }
 .agileits-banner-info p{
-    color: #FFFFFF;
+    color: #2f2f2f;
     font-size: .9em;
     line-height: 1.8em;
     margin: 2em auto 0;
@@ -316,9 +316,9 @@ ul.dropdown-menu li{
     border: solid 1px #bdcd00;
 }
 .w3-button a:hover{
-    color: #FFFFFF;
+    color: #2f2f2f;
 	background:none;
-	border: solid 1px #FFFFFF;
+	border: solid 1px #2f2f2f;
 }
 /*--slider--*/
 #slider2,
