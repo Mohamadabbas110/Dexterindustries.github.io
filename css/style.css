@@ -914,9 +914,9 @@ ul.dropdown-menu li{
 .w3l-social ul li a i.fa.fa-facebook{
 	height: 40px;
     width: 40px;
-    background: #FFFFFF;
+    background: #000000;
     line-height: 40px;
-    color: #383838;
+    color: #FFFFFF;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
