@@ -221,7 +221,7 @@ ul.dropdown-menu li{
     text-align: center;
 }
 .agileinfo-social-grids ul li a i.fa.fa-facebook{
-    color: #FFFFFF;
+    color: #000000;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -233,7 +233,7 @@ ul.dropdown-menu li{
 }
 .agileinfo-social-grids ul li a i.fa.fa-twitter{
 	margin:0 1em;
-    color: #FFFFFF;
+    color: #000000;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -245,7 +245,7 @@ ul.dropdown-menu li{
 }
 .agileinfo-social-grids ul li a i.fa.fa-rss{
 	margin:0 1em 0 0;
-    color: #FFFFFF;
+    color: #000000;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -256,7 +256,7 @@ ul.dropdown-menu li{
 	color: #f26522;
 }
 .agileinfo-social-grids ul li a i.fa.fa-vk{
-    color: #FFFFFF;
+    color: #000000;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
