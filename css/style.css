@@ -217,10 +217,10 @@ ul.dropdown-menu li{
     display: inline-block;
 }
 .agileinfo-social-grids ul li a {
-	color: #333;
+	color: #ffffff;
     text-align: center;
 }
-.agileinfo-social-grids ul li a i.fa.fa-facebook{
+.agileinfo-social-grids ul li a i.fa.fa-instagram{
     color: #FFFFFF;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -228,10 +228,11 @@ ul.dropdown-menu li{
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
-.agileinfo-social-grids ul li a i.fa.fa-facebook:hover {
-    color: #3b5998;
+.agileinfo-social-grids ul li a i.fa.fa-instagram:hover {
+    background-color: #d4af37;
+    color: #000;
 }
-.agileinfo-social-grids ul li a i.fa.fa-twitter{
+.agileinfo-social-grids ul li a i.fa.fa-linkedin{
 	margin:0 1em;
     color: #FFFFFF;
     transition: 0.5s all;
